@@ -35,8 +35,7 @@ The button press is captured by a rising edge on the INT0 pin, which causes the 
 The user selects the measured quantity by pressing a button. It is also possible to start an automated measurement, when all quantities are measured simultaneously.
 
 
-
-https://github.com/SlavekRylich/DE2-electrocity-measuring-project/assets/124887798/9ea198e4-74fe-4824-9926-db0f2acb6b82
+![video](video/shows.mp4)
 
 
 
