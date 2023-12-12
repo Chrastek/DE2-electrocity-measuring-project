@@ -30,6 +30,12 @@ The button press is captured by a rising edge on the INT0 pin, which causes the 
 ### User control
 The user selects the measured quantity by pressing a button. It is also possible to start an automated measurement, when all quantities are measured simultaneously.
 
+
+## Hardware description
+
+
+
+
 ![image](documentation/one_state.PNG)
 
 ![image](documentation/state_diagram.PNG)
