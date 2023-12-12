@@ -13,7 +13,7 @@ This project is a versatile and user-friendly system for measuring various elect
 ## Theoretical description and explanation
 
 System for measuring various electrical parameters such as voltage, capacitance, resistance and current.
-The units used are Arduino UNO, OLED display and measured components.
+Used units are Arduino UNO, OLED display and measured components.
 
 Arduino reads values on analog inputs. Using an ADC converter, it converts the measured value into a digital value using the following formula and prints it on the display:
 
