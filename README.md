@@ -41,7 +41,12 @@ according to the following circuit:
 
 Where 5V is the supply voltage from the Arudino uno. Furthermore, the circuit contains one 1kΩ 
 resistor connected to ground and one variable value Ω resistor. The voltage is measured at pin A0, 
-which is connected between the resistors in series
+which is connected between the resistors in series.
+
+### Current:
+The current is measured using a current sensor. The sensor works by measuring the voltage, which it 
+converts to an ADC. However, the current sensor has a 2.5V offset, which means that at 2.5V the 
+current is 0A. and then it calculates either positive or negative depending on the voltage.
 
 
 
