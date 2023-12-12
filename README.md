@@ -69,12 +69,12 @@ In the end, this measurement was heavily inaccurate due to part value tolarences
 ### Resistance:
 We can simply measure resistance of unknown resistor via a voltage divider. Resistor with unknown value of resistance is connected 5V supply followed by 1kΩ resistor connected to GND. Port A3 is connected between these two resistors to read analog value called ADC. The analog value is represented by following formula :
 
-![image](images/resistance_measurement.png)
+![image](images/resistance_formula_pcq.png)
 
 Following formula is used to calculate the magnitude of the unknown resistance. In which UR1k represents the value of
 the ADC:
 
-![image](images/resistance_Rx_measurement.png)
+![image](images/resistance_formula.png)
 
 ![image](documentation/one_state.PNG)
 
