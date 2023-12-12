@@ -76,6 +76,8 @@ the ADC:
 
 ![image](images/resistance_formula.png)
 
+![image](images/resistance_measurement.png)
+
 ![image](documentation/one_state.PNG)
 
 ![image](documentation/state_diagram.PNG)
