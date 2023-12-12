@@ -17,7 +17,7 @@ Used units are Arduino UNO, OLED display and measured components.
 
 Arduino reads values on analog inputs. Using an ADC converter, it converts the measured value into a digital value using the following formula and prints it on the display:
 
-![image](images/eq_adc_floor.PNG)
+![image](images/eq_adc_floor.png)
 
 There is only one ADC converter in Arduino. But it contains more channels between which this one converter can switch and converge the analog value from that channel.
 In our case, it converts 4 quantities voltage, capacitance, resistance and current, each connected to a separate analog input, see /schema/.
