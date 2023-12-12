@@ -48,6 +48,20 @@ The current is measured using a current sensor. The sensor works by measuring th
 converts to an ADC. However, the current sensor has a 2.5V offset, which means that at 2.5V the 
 current is 0A. and then it calculates either positive or negative depending on the voltage.
 
+
+### Capacitance:
+This method of measurement calculates how long it takes for the capacitor to reach 63.2% of its maximum voltage. Capacitance can be easily calculated by following formula :
+C = TC / R
+      
+ *    TC = time constant period in seconds
+
+ *    R = resistance in ohms
+
+ *    C = capacitance in farads (1 microfarad (ufd) = .000001 farad = 10^-6 farads )
+
+
+In the end, this measurement was heavily inaccurate due to part value tolarences and construction of board it self. So we measured 3 differently sized capacitors and according to the system of equations on line 319 of our code, we managed to achieve somewhat accurate results. On the oled display the value in uF is displayed with +-20uF accuracy.
+
 ![image](images/current_measurement.png)
 
 
