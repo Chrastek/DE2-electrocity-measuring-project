@@ -33,7 +33,7 @@ The user selects the measured quantity by pressing a button. It is also possible
 
 ## Hardware description
 
-# Voltage:
+### Voltage:
 The voltage measurement is performed 
 according to the following circuit:
 
