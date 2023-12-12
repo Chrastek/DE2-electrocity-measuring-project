@@ -27,7 +27,7 @@ Completion of the conversion is captured by the interrupt vector for the ADC, fr
 
 The button press is captured by a rising edge on the INT0 pin, which causes the button press to be interrupted. Debouncer is solved by a time slot, within which it is possible to press the button only once.
 
-#User control
+# User control
 The user selects the measured quantity by pressing a button. It is also possible to start an automated measurement, when all quantities are measured simultaneously.
 
 ![image](documentation/one_state.PNG)
