@@ -1,8 +1,7 @@
-#  Measuring electrocity project
+#  Measuring electricity project
 This project is final work of AVR course at Brno University of Technology
 
 ![image](images/real_connection.jpg)
-
 
 
 ### Topic
