@@ -78,6 +78,13 @@ the ADC:
 
 ![image](images/resistance_measurement.png)
 
+
+### Real view
+
+![image](images/real_connection.jpg)
+
+
+## Software description
 ![image](documentation/one_state.PNG)
 
 ![image](documentation/state_diagram.PNG)
