@@ -49,6 +49,7 @@ converts to an ADC. However, the current sensor has a 2.5V offset, which means t
 current is 0A. and then it calculates either positive or negative depending on the voltage.
 
 ![image](images/current_measurement.png)
+This image is from internet website https://www.theengineeringprojects.com/.
 
 ### Capacitance:
 This method of measurement calculates how long it takes for the capacitor to reach 63.2% of its maximum voltage. Capacitance can be easily calculated by following formula :
