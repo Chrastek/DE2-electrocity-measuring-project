@@ -37,6 +37,7 @@ The user selects the measured quantity by pressing a button. It is also possible
 The voltage measurement is performed 
 according to the following circuit:
 
+![image](images/voltage_measurement.png)
 
 Where 5V is the supply voltage from the Arudino uno. Furthermore, the circuit contains one 1kΩ 
 resistor connected to ground and one variable value Ω resistor. The voltage is measured at pin A0, 
