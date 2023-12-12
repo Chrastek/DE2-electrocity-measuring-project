@@ -24,5 +24,6 @@ var searchData=
   ['uart_5frx_5fbuffer_5fsize_21',['UART_RX_BUFFER_SIZE',['../group__pfleury__uart.html#ga5bdd6772c246436bb14377095de79b31',1,'uart.h']]],
   ['uart_5ftx_5fbuffer_5fmask_22',['UART_TX_BUFFER_MASK',['../uart_8c.html#a7ddb8c271caedb7c17167749946b543d',1,'uart.c']]],
   ['uart_5ftx_5fbuffer_5fsize_23',['UART_TX_BUFFER_SIZE',['../group__pfleury__uart.html#ga05f5d709605c6317c97e4974bec3402a',1,'uart.h']]],
-  ['usr_24',['usr',['../uart_8c.html#a074adba0d5b54cdd1ba67d1d65f78a72',1,'uart.c']]]
+  ['user_20control_24',['User control',['../md__d_1_201-skola_2vysoka_22021-2024_25_8semestr_2_d_e2_2electrocity-measuring-project_2_r_e_a_d_m_e.html#autotoc_md4',1,'']]],
+  ['usr_25',['usr',['../uart_8c.html#a074adba0d5b54cdd1ba67d1d65f78a72',1,'uart.c']]]
 ];

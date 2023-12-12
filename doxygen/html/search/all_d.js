@@ -23,5 +23,5 @@ var searchData=
   ['pcint7_5fset_20',['PCINT7_SET',['../group__rylich__adc.html#ga2797fbf20ad3997cb92c7156cae749d9',1,'pcint.h']]],
   ['pin_21',['PIN',['../group__fryza__twi.html#ga740f9eb9c9f9e33500ee61ec53945f6a',1,'twi.h']]],
   ['progmem_22',['progmem',['../font_8h.html#a4c019b171250246c5af7aae6e4cc36f3',1,'PROGMEM:&#160;font.h'],['../oled_8c.html#a14c21e89247590ebc69fdbae9b55772d',1,'PROGMEM:&#160;oled.c']]],
-  ['project_23',['electrocity-measuring-project',['../md__r_e_a_d_m_e.html',1,'']]]
+  ['project_23',['Measuring electrocity project',['../md__d_1_201-skola_2vysoka_22021-2024_25_8semestr_2_d_e2_2electrocity-measuring-project_2_r_e_a_d_m_e.html',1,'']]]
 ];

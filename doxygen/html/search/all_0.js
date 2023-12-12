@@ -38,5 +38,6 @@ var searchData=
   ['adc_5fset_5fprescaler_5f4_35',['ADC_SET_PRESCALER_4',['../adc_8h.html#a1edf3982c763b1e2248a28ba805c13d1',1,'adc.h']]],
   ['adc_5fset_5fprescaler_5f64_36',['ADC_SET_PRESCALER_64',['../adc_8h.html#a739ce9ba95452a511833a53776615f71',1,'adc.h']]],
   ['adc_5fset_5fprescaler_5f8_37',['ADC_SET_PRESCALER_8',['../adc_8h.html#accfcdcfc8eefd2c12282b1778c4c397b',1,'adc.h']]],
-  ['adc_5fstart_5fconv_38',['ADC_START_CONV',['../adc_8h.html#a5969d06273f092e2935e80295d33a010',1,'adc.h']]]
+  ['adc_5fstart_5fconv_38',['ADC_START_CONV',['../adc_8h.html#a5969d06273f092e2935e80295d33a010',1,'adc.h']]],
+  ['and_20explanation_39',['Theoretical description and explanation',['../md__d_1_201-skola_2vysoka_22021-2024_25_8semestr_2_d_e2_2electrocity-measuring-project_2_r_e_a_d_m_e.html#autotoc_md3',1,'']]]
 ];
