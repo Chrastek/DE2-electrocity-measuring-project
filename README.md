@@ -48,6 +48,7 @@ The current is measured using a current sensor. The sensor works by measuring th
 converts to an ADC. However, the current sensor has a 2.5V offset, which means that at 2.5V the 
 current is 0A. and then it calculates either positive or negative depending on the voltage.
 
+![image](images/current_measurement.png)
 
 
 ![image](documentation/one_state.PNG)
