@@ -9,9 +9,9 @@ This project is a versatile and user-friendly system for measuring various elect
 
 ### Team members
 
-* David Ecler (responsible for documentation)
+* David Ecler (responsible for HW designer and documentation)
 * Slávek Rylich (responsible for programming)
-* Jakub Chrástek (responsible for HW developer)
+* Jakub Chrástek (responsible for HW designer and documentation)
 
 ## Theoretical description and explanation
 
